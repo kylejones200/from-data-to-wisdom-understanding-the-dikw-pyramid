@@ -11,14 +11,7 @@ This framework helps us think clearly about what we have, what we need, and what
 
 DIKUW helps explain why many dashboards fail to influence decisions. It reminds us that the tools we use --- Python, SQL, Tableau --- aren't enough unless we know where we are on the pyramid. Data scientists often stop at data. Analysts hover at information. Good managers aim for understanding. Great leaders operate from wisdom.
 
-## About
 
-Place the code for this article in this repository.
-The original article export is saved as `article.md`.
-
-## Files
-
-Add your `.ipynb`, `.py`, `.yaml`, `.js`, `.ts`, or other project files here.
 
 ## Disclaimer
 
